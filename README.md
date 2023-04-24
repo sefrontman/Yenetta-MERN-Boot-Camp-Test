@@ -51,7 +51,7 @@ You are free to use any library or language you see feet as long as you follow t
 ### Submission
 
 ---
-- You must upload your solution on Github and submit the link to us until April 29, 2023 receiving the email.
+- You must upload your solution on Github and submit the link to us until **April 29, 2023** receiving the email.
 
 ### Note
 
