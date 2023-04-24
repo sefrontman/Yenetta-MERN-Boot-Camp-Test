@@ -60,4 +60,4 @@ You are free to use any library or language you see feet as long as you follow t
 
 Keep in mind that is the project that will be used to evaluate your skills. So we do expect you to make sure that app is fully functional and doesn’t have any obvious missing pieces.
 
-Should you encounter any difficulties or need clarification, don't hesitate to contact me us Telegram at [@telegram](https://t.me/Frontman_V)
+Should you encounter any difficulties or need clarification, don't hesitate to contact us on Telegram at [@frontman_v](https://t.me/Frontman_V)
